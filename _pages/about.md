@@ -17,7 +17,7 @@ news: true
 social: true
 ---
 
-Hello, I'm Akang Wang. I'm working as a Research Scientist at <a href="http://www.sribd.cn/" target="_blank">Shenzhen Research Institute of Big Data (SRIBD)</a>. 
+Hello, I'm Akang Wang. I'm working as a Research Scientist at <a href="http://www.sribd.cn/teacher/415" target="_blank">Shenzhen Research Institute of Big Data (SRIBD)</a>. 
 My current research is about Mixed-Integer Linear Programming and Global Optimization.
 I obtained my Ph.D. degree at <a href="http://www.cmu.edu/" target="_blank">Carnegie Mellon University</a> in 2020, working with <a href="https://scholar.google.com/citations?user=CINe7CgAAAAJ&hl=en" target="_blank">Prof. Chrysanthos E. Gounaris</a> in the area of <a href="https://www.cheme.engineering.cmu.edu/research/process-systems.html" target="_blank">Process Systems Engineering</a>. 
 My Ph.D. research was mainly focused on developing mathematical models and algorithms for <a href="https://en.wikipedia.org/wiki/Supply_chain" target="_blank">Supply Chain & Logistics</a>; 
