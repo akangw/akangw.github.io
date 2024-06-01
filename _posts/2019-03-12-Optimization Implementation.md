@@ -3,7 +3,7 @@ layout: post
 title:  Optimization Implementation
 date:   2019-03-12 12:00:00
 description: 
-tags: Implementation
+tags: implementation
 categories: sample-posts
 related_posts: false
 ---

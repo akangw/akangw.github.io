@@ -3,7 +3,7 @@ layout: post
 title:  Operations Research
 date:   2019-07-20 12:00:00
 description:
-tags: Optimization
+tags: optimization
 categories: sample-posts
 related_posts: false
 ---
