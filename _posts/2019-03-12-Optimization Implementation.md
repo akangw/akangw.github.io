@@ -20,7 +20,7 @@ related_posts: false
 
 #### Gurobi
 <ul>
-    <li><a href="https://abelsiqueira.github.io/blog/_posts/2017/2017-03-13-installing-gurobi-7-on-linux/" target="_blank">Installation</a></li>
+    <li><a href="https://abelsiqueira.com/blog/2017-03-13-installing-gurobi-7-on-linux/" target="_blank">Installation</a></li>
     <li><a href="https://www.gurobi.com/documentation/" target="_blank">Documentation</a></li>
 </ul>
 
