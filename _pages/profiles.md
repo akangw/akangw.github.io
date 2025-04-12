@@ -1,21 +1,12 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: Group Members
+description: 
 nav: true
 nav_order: 7
 
-# Graduate Students
-- Yanting Huang
-- Linxin Yang
-- Jinxin Xiong
-- Qian Chen
 
-# Visiting Students
-- Xi Gao
-- Chenyang Wu
-- Wenbo Liu
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
