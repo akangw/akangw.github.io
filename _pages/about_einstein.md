@@ -10,6 +10,8 @@ I am looking for self-motivated students with a strong mathematical background t
 - Xi Gao (PhD Student at [XJTU](http://en.xjtu.edu.cn/))
 - Chenyang Wu (PhD Student at [UCAS](https://english.ucas.ac.cn/))
 - [Wenbo Liu](https://scholar.google.com/citations?user=vc4UT08AAAAJ&hl=en) (PhD Student at [UCAS](https://english.ucas.ac.cn/))
+- Zhengyang Sha (Undergraduate at [Shandong University](https://www.en.sdu.edu.cn/))
+- Zijie Zhou (Undergraduate at [Central University of Finance and Economics](https://en.cufe.edu.cn/)) 
 
 ## Alumni
 - Feng Chen 
