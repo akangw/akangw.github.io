@@ -16,4 +16,4 @@ I am looking for self-motivated students with a strong mathematical background t
 ## Alumni
 - Feng Chen (Master student at [SCUT](https://www.scut.edu.cn/en/) --> PhD student at [UConn](https://uconn.edu/))
 - Xinyu Song (Master student at [UCAS](https://english.ucas.ac.cn/) --> PhD student at [UCAS](https://english.ucas.ac.cn/))
-- Yifeng Xiao (Master student at [XJTU](http://en.xjtu.edu.cn/)) --> PhD student at [UMTC](https://twin-cities.umn.edu/))
+- Yifeng Xiao (Master student at [XJTU](http://en.xjtu.edu.cn/) --> PhD student at [UMTC](https://twin-cities.umn.edu/))
