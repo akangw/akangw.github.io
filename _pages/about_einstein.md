@@ -1,4 +1,4 @@
-I am looking for self-motivated students with a strong mathematical background to join my research group. Our focus is on GPU-Based or AI-Assisted Optimization Algorithm Design. We currently have multiple openings for PhD students and research interns at [SRIBD](https://www.sribd.cn/en)/[CUHKSZ](https://sds.cuhk.edu.cn/en/phd-programmes). If you are interested, please email me your CV, academic transcripts, and any additional materials that highlight your research capabilities and potential.
+I am looking for self-motivated students with a strong mathematical background to join my research group specializing in Operations Research/Mathematical Programming. Our focus is on GPU-Based or AI-Assisted Optimization Algorithm Design. We currently have multiple openings for PhD students and research interns at [SRIBD](https://www.sribd.cn/en)/[CUHKSZ](https://sds.cuhk.edu.cn/en/phd-programmes). If you are interested, please email me your CV, academic transcripts, and any additional materials that highlight your research capabilities and potential.
 
 ## Graduate Students
 - Yanting Huang (PhD Student at [CUHKSZ](https://www.cuhk.edu.cn/en))
