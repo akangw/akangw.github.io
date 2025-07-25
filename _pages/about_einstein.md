@@ -14,6 +14,6 @@ I am looking for self-motivated students with a strong mathematical background t
 - Zijie Zhou (Undergraduate at [Central University of Finance and Economics](https://en.cufe.edu.cn/)) 
 
 ## Alumni
-- Feng Chen 
-- Xinyu Song
-- Yifeng Xiao
+- Feng Chen (Master student at [SCUT](https://www.scut.edu.cn/en/) --> PhD student at [UConn](https://uconn.edu/))
+- Xinyu Song (Master student at [UCAS](https://english.ucas.ac.cn/) --> PhD student at [UCAS](https://english.ucas.ac.cn/))
+- Yifeng Xiao (Master student at [XJTU](http://en.xjtu.edu.cn/)) --> PhD student at [UMTC](https://twin-cities.umn.edu/))
