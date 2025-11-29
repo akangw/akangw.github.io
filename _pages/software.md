@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-
+---
 
 <div class="table-section">
   <h2>GPU-based Algorithms</h2>
@@ -31,8 +31,10 @@ nav_order: 3
   </table>
 </div>
 
+---
+
 <div class="table-section">
-  <h2>Learning to Optimize</h2>
+  <h2>AI-Assisted Algorithms</h2>
   <table class="research-table">
     <thead>
       <tr>
@@ -60,6 +62,8 @@ nav_order: 3
     </tbody>
   </table>
 </div>
+
+--- 
 
 <div class="table-section">
   <h2>Power Systems Optimization</h2>
