@@ -20,7 +20,7 @@ nav_order: 3
     </thead>
     <tbody>
       <tr>
-        <td class="algorithm-name"><a href="https://arxiv.org/abs/2509.21064" target="_blank">PDBO</a></td>
+        <td class="algorithm-name"><a href="https://github.com/liuwb17/PDBO" target="_blank">PDBO</a></td>
         <td class="algorithm-desc">A primal-dual algorithm for solving unconstrained binary optimization problems</td>
       </tr>
       <tr>
