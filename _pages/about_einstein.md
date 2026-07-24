@@ -4,15 +4,16 @@ I am looking for self-motivated students with a strong mathematical background t
 - Yanting Huang (PhD Student at [CUHKSZ](https://www.cuhk.edu.cn/en))
 - [Linxin Yang](https://scholar.google.com/citations?user=tQmW5QQAAAAJ&hl=en&oi=ao) (PhD Student at [CUHKSZ](https://www.cuhk.edu.cn/en))
 - Jinxin Xiong (PhD Student at [CUHKSZ](https://www.cuhk.edu.cn/en))
-- [Qian Chen](https://scholar.google.com/citations?user=O74Oj08AAAAJ&hl=en) (PhD Student at [CUHKSZ](https://www.cuhk.edu.cn/en))
+
 
 ## Visiting Students
-- Xi Gao (PhD Student at [XJTU](http://en.xjtu.edu.cn/))
-- [Wenbo Liu](https://scholar.google.com/citations?user=vc4UT08AAAAJ&hl=en) (PhD Student at [UCAS](https://english.ucas.ac.cn/))
-- Zhengyang Sha (Undergraduate at [Shandong University](https://www.en.sdu.edu.cn/))
+- [Xi Gao](https://scholar.google.com/citations?user=xFQkY1YAAAAJ&hl=en) (PhD Student at [XJTU](http://en.xjtu.edu.cn/))
 - Xin Liu (Master Student at [Nanjing Normal University](https://en.njnu.edu.cn/))
 
 ## Alumni
+- Zhengyang Sha (Undergraduate at [Shandong University](https://www.en.sdu.edu.cn/))
+- [Wenbo Liu](https://scholar.google.com/citations?user=vc4UT08AAAAJ&hl=en) (PhD Student at [UCAS](https://english.ucas.ac.cn/) --> Huawei)
+- [Qian Chen](https://scholar.google.com/citations?user=O74Oj08AAAAJ&hl=en) (PhD Student at [CUHKSZ](https://www.cuhk.edu.cn/en) --> [AutoKernel](https://autokernel.cn))
 - Chenyang Wu (PhD Student at [UCAS](https://english.ucas.ac.cn/))
 - Zijie Zhou (Undergraduate at [Central University of Finance and Economics](https://en.cufe.edu.cn/))
 - Feng Chen (Master student at [SCUT](https://www.scut.edu.cn/en/) --> PhD student at [UConn](https://uconn.edu/))
