@@ -10,7 +10,7 @@ I am looking for self-motivated students with a strong mathematical background t
 - [Xi Gao](https://scholar.google.com/citations?user=xFQkY1YAAAAJ&hl=en) (PhD Student at [XJTU](http://en.xjtu.edu.cn/))
 - Xin Liu (Master Student at [Nanjing Normal University](https://en.njnu.edu.cn/))
 - Haozhen Bai (Undergraduate at [Nanjing University](https://www.nju.edu.cn/en/))
-- Zijian Liu (Master student at [NTU Singapore] (https://www.ntu.edu.sg))
+- Zijian Liu (Master student at [NTU Singapore](https://www.ntu.edu.sg))
 
 ## Alumni
 - Zhengyang Sha (Undergraduate at [Shandong University](https://www.en.sdu.edu.cn/))
